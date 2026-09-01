@@ -1,0 +1,22 @@
+《暑假最萌的一天｜宜蘭狐狸村大冒險》使用說明
+
+一、直接在電腦瀏覽
+1. 解壓縮 ZIP 檔。
+2. 請勿移動或刪除 images、style.css、script.js。
+3. 點兩下 index.html，即可使用瀏覽器開啟。
+
+二、發布到 GitHub Pages
+1. 建立新的 GitHub Repository。
+2. 將本資料夾內的 index.html、style.css、script.js、images 資料夾全部上傳。
+3. 進入 Settings → Pages。
+4. Source 選擇 Deploy from a branch。
+5. Branch 選擇 main、資料夾選擇 /(root)，再按 Save。
+6. 等候約 1～3 分鐘，即可取得公開網址。
+
+三、修改文字
+使用記事本、Notepad++ 或 Visual Studio Code 開啟 index.html，即可修改文章。
+
+四、替換圖片
+將新圖片放入 images 資料夾，並在 index.html 中修改對應的圖片檔名。
+
+注意：如果只傳送 index.html 而沒有附上其他檔案，圖片與互動效果將無法正常顯示。
